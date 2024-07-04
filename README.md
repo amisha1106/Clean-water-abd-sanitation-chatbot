@@ -23,7 +23,7 @@ This project aims to provide an interactive and accessible way for users to lear
 
 1. Clone this repository:
    ```
-   git clone https://github.com/amisha1106/clean-water-chatbot.git
+   git clone https://github.com/amisha1106/Clean-water-abd-sanitation-chatbot.git
    ```
 
 2. Navigate to the project directory:
