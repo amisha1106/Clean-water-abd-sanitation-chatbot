@@ -28,7 +28,8 @@ This project aims to provide an interactive and accessible way for users to lear
 
 2. Navigate to the project directory:
    ```
-   cd clean-water-chatbot
+   cd Clean-water-abd-sanitation-chatbot
+
    ```
 
 3. Open `index.html` in your web browser to view the website locally.
